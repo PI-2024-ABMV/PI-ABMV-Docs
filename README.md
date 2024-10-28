@@ -9,14 +9,17 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- [Ana Clara Alves de Andrade Hahn](https://github.com/anaclara0603)
+- [Bruno Marquesi de Macedo](https://github.com/Bruno4002)
+- [Matheus Vidal Zenere](https://github.com/iTzMvz)
+- [Valentina da Trindade Pera](https://github.com/TinaPera)
+
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
+-   [Documentação (esse documento)](https://github.com/PI-2024-ABMV/PI-ABMV-Docs)
+-   Backend: [Repositório](https://github.com/PI-2024-ABMV/PI-ABMV-Backend) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Frontend: [Repositório](https://github.com/PI-2024-ABMV/PI-ABMV-Frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
 **Como usar esse modelo para o Projeto Integrador**
 
